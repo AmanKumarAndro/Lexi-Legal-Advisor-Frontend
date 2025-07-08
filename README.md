@@ -27,7 +27,7 @@ This project simulates the core functionality of Lexi - a legal research assista
 Try the live application instantly - no setup required!
 
 ### Deployment Details
-- **Platform**: Vercel/Netlify
+- **Platform**: Vercel
 - **Build Status**: ✅ Active
 
 

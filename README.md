@@ -30,6 +30,17 @@ Try the live application instantly - no setup required!
 - **Platform**: Vercel
 - **Build Status**: ✅ Active
 
+## 📱 Screenshots
+
+### Home View
+![Home Interface](./screenshots/home.png)
+
+### Query
+![Query](./screenshots/query.png)
+
+### Response Display
+![Response](./screenshots/response.png)
+
 
 ## 🛠️ Tech Stack
 

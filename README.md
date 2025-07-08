@@ -19,6 +19,17 @@ This project simulates the core functionality of Lexi - a legal research assista
 - **PDF Integration**: Opens legal documents in new tabs
 - **Loading States**: Smooth UX with loading animations
 
+## 🌐 Live Demo
+
+**🔗 Deployed Application**: [Lexi Legal Assistant Interface with Citations](https://lexi-legal-assistant-frontend.vercel.app)
+
+### Quick Access
+Try the live application instantly - no setup required!
+
+### Deployment Details
+- **Platform**: Vercel/Netlify
+- **Build Status**: ✅ Active
+
 
 ## 🛠️ Tech Stack
 

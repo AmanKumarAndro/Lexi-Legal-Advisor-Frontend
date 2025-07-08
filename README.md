@@ -28,11 +28,6 @@ This project simulates the core functionality of Lexi - a legal research assista
 - **State Management**: React useState
 - **API**: Simulated (no backend required)
 
-## 📋 Prerequisites
-
-- Node.js (v14 or higher)
-- npm or yarn package manager
-
 ## 🔧 Installation & Setup
 
 1. **Clone the repository**
